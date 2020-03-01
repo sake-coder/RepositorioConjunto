@@ -1,0 +1,9 @@
+
+#Archivos a ignorar
+
+#carpeta bin
+facturas/bin/
+#resto archivos ocultos del proyecto no necesarios
+facturas/.settings
+facturas/.classpath
+facturas/.project
